@@ -2,21 +2,21 @@
   "interstitialInterval": 60000,
   "googleAppOpenInterval": 30000,
 
-  "isGoogleInterstitialOn": false,
+  "isGoogleInterstitialOn": true,
   "isApplovinInterstitialOn": true,
   "isIronSourceInterstitialOn": true,
 
-  "isGoogleNativeOn": false,
+  "isGoogleNativeOn": true,
   "isApplovinNativeOn": true,
   "isIronSourceNativeOn": true,
 
-  "isGoogleNativeBannerOn": false,
+  "isGoogleNativeBannerOn": true,
   "isApplovinNativeBannerOn": true,
   "isIronSourceNativeBannerOn": true,
 
-  "isGoogleBannerOn": false,
-  "isApplovinBannerOn": false,
-  "isIronSourceBannerOn": false,
+  "isGoogleBannerOn": true,
+  "isApplovinBannerOn": true,
+  "isIronSourceBannerOn": true,
 
   "isGoogleAppOpenOn": true,
 
@@ -25,9 +25,9 @@
   "googleNativeId": "/6499/example/native",
   "googleAppOpenId": "/6499/example/app-open",
 
-  "applovinInterstitialId": "55a122766634b628",
-  "applovinBannerId": "5e558020cdb2db0b",
-  "applovinNativeId": "572d482aadc81b78",
+  "applovinInterstitialId": "00f15832ef24f8c5",
+  "applovinBannerId": "1ad6d04cd284fca1",
+  "applovinNativeId": "e366888c9946744d",
 
-  "ironSourceAppKey": "18a9ff9e5"
+  "ironSourceAppKey": "1a57929ab"
 }
