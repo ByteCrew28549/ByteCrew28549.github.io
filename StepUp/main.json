@@ -2,15 +2,15 @@
   "interstitialInterval": 60000,
   "googleAppOpenInterval": 30000,
 
-  "isGoogleInterstitialOn": true,
+  "isGoogleInterstitialOn": false,
   "isApplovinInterstitialOn": false,
   "isIronSourceInterstitialOn": false,
 
-  "isGoogleNativeOn": true,
+  "isGoogleNativeOn": false,
   "isApplovinNativeOn": false,
   "isIronSourceNativeOn": false,
 
-  "isGoogleNativeBannerOn": true,
+  "isGoogleNativeBannerOn": false,
   "isApplovinNativeBannerOn": false,
   "isIronSourceNativeBannerOn": false,
 
@@ -18,7 +18,7 @@
   "isApplovinBannerOn": false,
   "isIronSourceBannerOn": false,
 
-  "isGoogleAppOpenOn": true,
+  "isGoogleAppOpenOn": false,
 
   "googleInterstitialId": "/6499/example/interstitial",
   "googleBannerId": "/6499/example/banner",
