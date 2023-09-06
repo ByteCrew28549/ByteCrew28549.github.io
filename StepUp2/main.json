@@ -5,7 +5,7 @@
   "isGoogleInterstitialOn": false,
   "isApplovinInterstitialOn": false,
   "isIronSourceInterstitialOn": false,
-  "isMetaInterstitialOn": false,
+  "isMetaInterstitialOn": true,
 
   "isGoogleNativeOn": false,
   "isApplovinNativeOn": false,
