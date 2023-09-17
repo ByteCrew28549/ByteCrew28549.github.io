@@ -24,10 +24,10 @@
 
   "isGoogleAppOpenOn": true,
 
-  "googleInterstitialId": "/6499/example/interstitial",
+  "googleInterstitialId": "ca-app-pub-4261787134652643/1903219003",
   "googleBannerId": "/6499/example/banner",
   "googleNativeId": "/6499/example/native",
-  "googleAppOpenId": "/6499/example/app-open",
+  "googleAppOpenId": "ca-app-pub-4261787134652643/9590137336",
 
   "applovinInterstitialId": "00f15832ef24f8c5",
   "applovinBannerId": "1ad6d04cd284fca1",
