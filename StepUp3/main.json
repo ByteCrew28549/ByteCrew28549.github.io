@@ -7,20 +7,20 @@
   "isIronSourceInterstitialOn": false,
   "isMetaInterstitialOn": false,
 
-  "isGoogleNativeOn": false,
+  "isGoogleNativeOn": true,
   "isApplovinNativeOn": false,
   "isIronSourceNativeOn": false,
-  "isMetaNativeOn": true,
+  "isMetaNativeOn": false,
 
   "isGoogleNativeBannerOn": false,
   "isApplovinNativeBannerOn": false,
   "isIronSourceNativeBannerOn": false,
   "isMetaNativeBannerOn": false,
 
-  "isGoogleBannerOn": false,
+  "isGoogleBannerOn": true,
   "isApplovinBannerOn": false,
   "isIronSourceBannerOn": false,
-  "isMetaBannerOn": true,
+  "isMetaBannerOn": false,
 
   "isGoogleAppOpenOn": true,
 
