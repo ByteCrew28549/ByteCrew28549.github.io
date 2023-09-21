@@ -1,0 +1,41 @@
+{
+  "interstitialInterval": 100000,
+  "googleAppOpenInterval": 120000,
+
+  "isGoogleInterstitialOn": true,
+  "isApplovinInterstitialOn": false,
+  "isIronSourceInterstitialOn": false,
+  "isMetaInterstitialOn": false,
+
+  "isGoogleNativeOn": false,
+  "isApplovinNativeOn": false,
+  "isIronSourceNativeOn": false,
+  "isMetaNativeOn": true,
+
+  "isGoogleNativeBannerOn": false,
+  "isApplovinNativeBannerOn": false,
+  "isIronSourceNativeBannerOn": false,
+  "isMetaNativeBannerOn": false,
+
+  "isGoogleBannerOn": false,
+  "isApplovinBannerOn": false,
+  "isIronSourceBannerOn": false,
+  "isMetaBannerOn": true,
+
+  "isGoogleAppOpenOn": true,
+
+  "googleInterstitialId": "ca-app-pub-4895417087522184/2595438476",
+  "googleBannerId": "/6499/example/banner",
+  "googleNativeId": "/6499/example/native",
+  "googleAppOpenId": "ca-app-pub-4895417087522184/5189526819",
+
+  "applovinInterstitialId": "00f15832ef24f8c5",
+  "applovinBannerId": "1ad6d04cd284fca1",
+  "applovinNativeId": "e366888c9946744d",
+
+  "ironSourceAppKey": "1a57929ab",
+
+  "metaInterstitialId": "248376198072442_253284047581657",
+  "metaBannerId": "248376198072442_253283864248342",
+  "metaNativeId": "248376198072442_253284167581645"
+}
