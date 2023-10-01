@@ -1,5 +1,5 @@
 {
-  "interstitialInterval": 180000,
+  "interstitialInterval": 1200000,
   "googleAppOpenInterval": 120000,
 
   "isGoogleInterstitialOn": true,
