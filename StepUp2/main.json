@@ -10,7 +10,7 @@
   "isGoogleNativeOn": false,
   "isApplovinNativeOn": false,
   "isIronSourceNativeOn": false,
-  "isMetaNativeOn": true,
+  "isMetaNativeOn": false,
 
   "isGoogleNativeBannerOn": false,
   "isApplovinNativeBannerOn": false,
@@ -20,9 +20,9 @@
   "isGoogleBannerOn": false,
   "isApplovinBannerOn": false,
   "isIronSourceBannerOn": false,
-  "isMetaBannerOn": true,
+  "isMetaBannerOn": false,
 
-  "isGoogleAppOpenOn": true,
+  "isGoogleAppOpenOn": false,
 
   "googleInterstitialId": "ca-app-pub-4895417087522184/2595438476",
   "googleBannerId": "/6499/example/banner",
