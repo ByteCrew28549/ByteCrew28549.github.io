@@ -22,11 +22,12 @@
   "isIronSourceBannerOn": false,
   "isMetaBannerOn": false,
   
-  "isGoogleAppOpenOn": false,
-  "googleInterstitialId": "/21753324030,23007328893/com.pedometer.step.counter.app_Interstitial",
-  "googleBannerId": "/21753324030,23007328893/com.pedometer.step.counter.app_Banner",
-  "googleNativeId": "/21753324030,23007328893/com.pedometer.step.counter.app_Native",
-  "googleAppOpenId": "/21753324030,23007328893/com.pedometer.step.counter.app_AppOpen",
+  "isGoogleAppOpenOn": true,
+  
+  "googleInterstitialId": "/6499/example/interstitial",
+  "googleBannerId": "/6499/example/banner",
+  "googleNativeId": "/6499/example/native",
+  "googleAppOpenId": "/6499/example/app-open",
   
   "applovinInterstitialId": "00f15832ef24f8c5",
   "applovinBannerId": "1ad6d04cd284fca1",
