@@ -1,0 +1,41 @@
+{
+  "interstitialInterval": 60000,
+  "googleAppOpenInterval": 60000,
+
+  "isGoogleInterstitialOn": true,
+  "isApplovinInterstitialOn": false,
+  "isIronSourceInterstitialOn": false,
+  "isMetaInterstitialOn": false,
+
+  "isGoogleNativeOn": true,
+  "isApplovinNativeOn": false,
+  "isIronSourceNativeOn": false,
+  "isMetaNativeOn": false,
+
+  "isGoogleNativeBannerOn": false,
+  "isApplovinNativeBannerOn": false,
+  "isIronSourceNativeBannerOn": false,
+  "isMetaNativeBannerOn": false,
+
+  "isGoogleBannerOn": true,
+  "isApplovinBannerOn": false,
+  "isIronSourceBannerOn": false,
+  "isMetaBannerOn": false,
+
+  "isGoogleAppOpenOn": true,
+
+  "googleInterstitialId": "/21753324030,23007328893/com.pedometer.step.counter.app_Interstitial",
+  "googleBannerId": "/21753324030,23007328893/com.pedometer.step.counter.app_Banner",
+  "googleNativeId": "/21753324030,23007328893/com.pedometer.step.counter.app_Native",
+  "googleAppOpenId": "/21753324030,23007328893/com.pedometer.step.counter.app_AppOpen",
+
+  "applovinInterstitialId": "00f15832ef24f8c5",
+  "applovinBannerId": "1ad6d04cd284fca1",
+  "applovinNativeId": "e366888c9946744d",
+
+  "ironSourceAppKey": "1a57929ab",
+
+  "metaInterstitialId": "248376198072442_253284047581657",
+  "metaBannerId": "248376198072442_253283864248342",
+  "metaNativeId": "248376198072442_253284167581645"
+}
