@@ -1,44 +1,47 @@
 {
   "interstitialInterval": 60000,
   "googleAppOpenInterval": 60000,
-  
+
   "isGoogleInterstitialOn": false,
   "isApplovinInterstitialOn": true,
   "isIronSourceInterstitialOn": false,
   "isMetaInterstitialOn": false,
-  
+  "isCustomInterstitialOn": false,
+
   "isGoogleNativeOn": false,
   "isApplovinNativeOn": true,
   "isIronSourceNativeOn": false,
   "isMetaNativeOn": false,
-  
+  "isCustomNativeOn": false,
+
   "isGoogleNativeBannerOn": false,
   "isApplovinNativeBannerOn": false,
   "isIronSourceNativeBannerOn": false,
   "isMetaNativeBannerOn": false,
-  
+
   "isGoogleBannerOn": false,
   "isApplovinBannerOn": true,
   "isIronSourceBannerOn": false,
   "isMetaBannerOn": false,
-  
+  "isCustomBannerOn": false,
+
   "isGoogleAppOpenOn": true,
-  
+
   "googleInterstitialId": "/6499/example/interstitial",
   "googleBannerId": "/6499/example/banner",
   "googleNativeId": "/6499/example/native",
   "googleAppOpenId": "/6499/example/app-open",
-  
+
   "applovinInterstitialId": "00f15832ef24f8c5",
   "applovinBannerId": "1ad6d04cd284fca1",
   "applovinNativeId": "e366888c9946744d",
-  
+
   "ironSourceAppKey": "1a57929ab",
-  
+
   "metaInterstitialId": "248376198072442_253284047581657",
   "metaBannerId": "248376198072442_253283864248342",
   "metaNativeId": "248376198072442_253284167581645",
-  
+
   "customAds": {
     "Link": "https://play4062.atmegame.com/start",
     "Banner": [
