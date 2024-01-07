@@ -5,12 +5,12 @@
   "googleAppOpenRequestCount": 3,
 
   "isGoogleInterstitialOn": true,
-  "isApplovinInterstitialOn": false,
+  "isApplovinInterstitialOn": true,
   "isIronSourceInterstitialOn": false,
   "isMetaInterstitialOn": false,
 
   "isGoogleNativeOn": false,
-  "isApplovinNativeOn": false,
+  "isApplovinNativeOn": true,
   "isIronSourceNativeOn": false,
   "isMetaNativeOn": false,
 
@@ -20,7 +20,7 @@
   "isMetaNativeBannerOn": false,
 
   "isGoogleBannerOn": true,
-  "isApplovinBannerOn": false,
+  "isApplovinBannerOn": true,
   "isIronSourceBannerOn": false,
   "isMetaBannerOn": false,
 
