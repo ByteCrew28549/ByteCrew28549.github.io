@@ -10,7 +10,7 @@
   "isMetaInterstitialOn": false,
 
   "isGoogleNativeOn": true,
-  "isApplovinNativeOn": false,
+  "isApplovinNativeOn": true,
   "isIronSourceNativeOn": false,
   "isMetaNativeOn": false,
 
