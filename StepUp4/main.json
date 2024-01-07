@@ -5,12 +5,12 @@
   "googleAppOpenRequestCount": 3,
 
   "isGoogleInterstitialOn": true,
-  "isApplovinInterstitialOn": true,
+  "isApplovinInterstitialOn": false,
   "isIronSourceInterstitialOn": false,
   "isMetaInterstitialOn": false,
 
-  "isGoogleNativeOn": true,
-  "isApplovinNativeOn": true,
+  "isGoogleNativeOn": false,
+  "isApplovinNativeOn": false,
   "isIronSourceNativeOn": false,
   "isMetaNativeOn": false,
 
@@ -20,22 +20,22 @@
   "isMetaNativeBannerOn": false,
 
   "isGoogleBannerOn": true,
-  "isApplovinBannerOn": true,
+  "isApplovinBannerOn": false,
   "isIronSourceBannerOn": false,
   "isMetaBannerOn": false,
 
   "isGoogleAppOpenOn": true,
 
-  "googleInterstitialId": "/21753324030,23040943192/com.simple.gallery.photos.videos_Interstitial",
-  "googleBannerId": "/21753324030,23040943192/com.simple.gallery.photos.videos_Banner",
+  "googleInterstitialId": "ca-app-pub-4895417087522184/3589018920",
+  "googleBannerId": "ca-app-pub-4895417087522184/3090379374",
   "googleNativeId": "/21753324030,23040943192/com.simple.gallery.photos.videos_Native",
-  "googleAppOpenId": "/21753324030,23040943192/com.simple.gallery.photos.videos_AppOpen",
+  "googleAppOpenId": "ca-app-pub-4895417087522184/9771283890",
   
-  "applovinInterstitialId": "55a122766634b628",
-  "applovinBannerId": "5e558020cdb2db0b",
-  "applovinNativeId": "572d482aadc81b78",
+  "applovinInterstitialId": "null",
+  "applovinBannerId": "null",
+  "applovinNativeId": "null",
 
-  "ironSourceAppKey": "1a57929ab",
+  "ironSourceAppKey": "null",
 
   "metaInterstitialId": "1506096413169774_1506100309836051",
   "metaBannerId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
