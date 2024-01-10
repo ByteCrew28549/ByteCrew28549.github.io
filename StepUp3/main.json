@@ -1,8 +1,8 @@
 {
-  "interstitialInterval": 60000,
-  "googleAppOpenInterval": 60000,
+  "interstitialInterval": 600000,
+  "googleAppOpenInterval": 600000,
 
-  "isGoogleInterstitialOn": false,
+  "isGoogleInterstitialOn": true,
   "isApplovinInterstitialOn": false,
   "isIronSourceInterstitialOn": false,
   "isMetaInterstitialOn": false,
@@ -17,15 +17,15 @@
   "isIronSourceNativeBannerOn": false,
   "isMetaNativeBannerOn": false,
 
-  "isGoogleBannerOn": false,
+  "isGoogleBannerOn": true,
   "isApplovinBannerOn": false,
   "isIronSourceBannerOn": false,
   "isMetaBannerOn": false,
 
   "isGoogleAppOpenOn": false,
 
-  "googleInterstitialId": "/21753324030,23007328893/com.pedometer.step.counter.app_Interstitial",
-  "googleBannerId": "/21753324030,23007328893/com.pedometer.step.counter.app_Banner",
+  "googleInterstitialId": "ca-app-pub-4895417087522184/3589018920",
+  "googleBannerId": "ca-app-pub-4895417087522184/3090379374",
   "googleNativeId": "/21753324030,23007328893/com.pedometer.step.counter.app_Native",
   "googleAppOpenId": "/21753324030,23007328893/com.pedometer.step.counter.app_AppOpen",
 
