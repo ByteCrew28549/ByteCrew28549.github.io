@@ -1,7 +1,7 @@
 {
-  "interstitialInterval": 600000,
+  "interstitialInterval": 120000,
   "interstitialRequestCount": 3,
-  "googleAppOpenInterval": 600000,
+  "googleAppOpenInterval": 120000,
   "googleAppOpenRequestCount": 3,
 
   "isGoogleInterstitialOn": true,
