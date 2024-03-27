@@ -1,0 +1,37 @@
+{
+  "interstitialInterval": 60000,
+  "interstitialRequestCount": 3,
+  "googleAppOpenInterval": 60000,
+  "googleAppOpenRequestCount": 3,
+
+  "isGoogleInterstitialOn": false,
+  "isApplovinInterstitialOn": false,
+  "isMetaInterstitialOn": false,
+
+  "isGoogleNativeOn": false,
+  "isApplovinNativeOn": false,
+  "isMetaNativeOn": false,
+
+  "isGoogleNativeBannerOn": false,
+  "isApplovinNativeBannerOn": false,
+  "isMetaNativeBannerOn": false,
+
+  "isGoogleBannerOn": false,
+  "isApplovinBannerOn": false,
+  "isMetaBannerOn": false,
+
+  "isGoogleAppOpenOn": true,
+
+  "googleInterstitialId": "/6499/example/interstitial",
+  "googleBannerId": "/6499/example/banner",
+  "googleNativeId": "/6499/example/native",
+  "googleAppOpenId": "/6499/example/app-open",
+
+  "applovinInterstitialId": "00f15832ef24f8c5",
+  "applovinBannerId": "1ad6d04cd284fca1",
+  "applovinNativeId": "e366888c9946744d",
+
+  "metaInterstitialId": "248376198072442_253284047581657",
+  "metaBannerId": "248376198072442_253283864248342",
+  "metaNativeId": "248376198072442_253284167581645"
+}
