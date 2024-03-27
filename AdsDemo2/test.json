@@ -38,5 +38,6 @@
   "showUpdate": true,
   "forceUpdateOn": true,
   "updatePercentage": 100,
-  "updateIcon": "https://bytecrew28549.github.io/AdsDemo2/update_icon.png"
+  "updateIcon": "https://bytecrew28549.github.io/AdsDemo2/update_icon.png",
+  "updateLink": "gallery.photogallery.album.editor"
 }
