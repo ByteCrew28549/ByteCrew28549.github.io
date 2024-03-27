@@ -37,5 +37,6 @@
 
   "showUpdate": true,
   "forceUpdateOn": true,
-  "updatePercentage": 100
+  "updatePercentage": 100,
+  "metaNativeId": ""
 }
