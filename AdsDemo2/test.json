@@ -36,8 +36,8 @@
   "metaNativeId": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
 
   "showUpdate": true,
-  "forceUpdateOn": true,
-  "updatePercentage": 100,
+  "forceUpdateOn": false,
+  "updatePercentage": 50,
   "updateIcon": "https://bytecrew28549.github.io/AdsDemo2/update_icon.png",
   "updateLink": "gallery.photogallery.album.editor"
 }
