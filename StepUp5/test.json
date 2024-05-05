@@ -5,20 +5,20 @@
   "googleAppOpenRequestCount": 3,
 
   "isGoogleInterstitialOn": true,
-  "isApplovinInterstitialOn": true,
-  "isMetaInterstitialOn": true,
+  "isApplovinInterstitialOn": false,
+  "isMetaInterstitialOn": false,
 
   "isGoogleNativeOn": true,
-  "isApplovinNativeOn": true,
-  "isMetaNativeOn": true,
+  "isApplovinNativeOn": false,
+  "isMetaNativeOn": false,
 
-  "isGoogleNativeBannerOn": true,
-  "isApplovinNativeBannerOn": true,
-  "isMetaNativeBannerOn": true,
+  "isGoogleNativeBannerOn": false,
+  "isApplovinNativeBannerOn": false,
+  "isMetaNativeBannerOn": false,
 
   "isGoogleBannerOn": true,
-  "isApplovinBannerOn": true,
-  "isMetaBannerOn": true,
+  "isApplovinBannerOn": false,
+  "isMetaBannerOn": false,
 
   "isGoogleAppOpenOn": true,
 
@@ -27,9 +27,9 @@
   "googleNativeId": "/6499/example/native",
   "googleAppOpenId": "/6499/example/app-open",
 
-  "applovinInterstitialId": "206b5cf21d8381c3",
-  "applovinBannerId": "3ccfb47de5acea78",
-  "applovinNativeId": "683aa5c74849e31b",
+  "applovinInterstitialId": "00f15832ef24f8c5",
+  "applovinBannerId": "1ad6d04cd284fca1",
+  "applovinNativeId": "e366888c9946744d",
 
   "metaInterstitialId": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
   "metaBannerId": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
