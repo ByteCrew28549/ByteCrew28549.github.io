@@ -22,11 +22,11 @@
 
   "isGoogleAppOpenOn": true,
 
-  "googleInterstitialId": "ca-app-pub-6460060479768856/4826040329",
-  "googleBannerId": "ca-app-pub-6460060479768856/4941590395",
+  "googleInterstitialId": "ca-app-pub-4895417087522184/3589018920",
+  "googleBannerId": "ca-app-pub-4895417087522184/3090379374",
   "googleNativeId": "/6499/example/native",
-  "googleAppOpenId": "ca-app-pub-6460060479768856/3512958650",
-
+  "googleAppOpenId": "ca-app-pub-4895417087522184/9771283890",
+  
   "applovinInterstitialId": "206b5cf21d8381c3",
   "applovinBannerId": "3ccfb47de5acea78",
   "applovinNativeId": "683aa5c74849e31b",
